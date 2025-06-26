@@ -44,14 +44,14 @@ This project combines **Generative AI** with **Retail Analytics** to enable non-
 ## 📸 Screenshots
 
 ### 🏠 Homepage
-![Home](images/home.png)
+![Home](Images/home.png)
 
 ### 🤖 Query 1: Show Sales by Category
-![Query1](images/Query1.png)
+![Query1](Images/Query1.png)
 
 ### 📊 Query 2: Show Monthly Sales Trends
-![Query2](images/Query2.png)
+![Query2](Images/Query2.png)
 
-### 📈 Query 3: Show Sales by Sub-Category
-![Query3](images/Query3.png)
+### 📈 Query 3: Show summary of Sales
+![Query3](Images/Query3.png)
 
